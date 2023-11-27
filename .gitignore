@@ -11,6 +11,5 @@ src/main/js/util/boar/GuessInterpreter.ts
 *.txt
 /website
 package-lock.json
-config.json
 *.cjs
 *.bat
