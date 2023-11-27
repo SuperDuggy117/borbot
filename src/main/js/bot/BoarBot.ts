@@ -181,7 +181,7 @@ export class BoarBot implements Bot {
 			this.startNotificationCron();
 			this.startQuestRefreshCron();
 			this.startPowCron();
-			this.startSpookCrons();
+			//this.startSpookCrons();
 			this.startGlobalInterval();
 
 			(this.client.user as ClientUser).setPresence({
