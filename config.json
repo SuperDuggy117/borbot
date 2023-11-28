@@ -2623,7 +2623,7 @@
       "normal": {
         "name": "normal bor",
         "pluralName": "normal bors",
-        "file": "NormalBoar.png",
+        "file": "normalbor.png",
         "description": "The original boar. Quite unremarkable.",
         "isSB": false
       },
