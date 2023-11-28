@@ -288,7 +288,7 @@
     "cancelDelete": "canceled the self-wipe proces :O",
     "deleteMsgOne": "bro are you SURE that u wanna get rid of all youre data from borbot?",
     "deleteMsgTwo": "**EVERTHING WILL BE GONED!!!** all of youre progres will be gone FORVER and will NOT be recover. so bro are you like REALLY REALLY SURE u wanna like **COMPLETELY** get rid of youre data from boarbot?",
-    "defaultSelectPlaceholder": "UNSELECTED",
+    "defaultSelectPlaceholder": "emty",
     "emptySelect": "None",
     "channelOptionLabel": "#%@ [%@]",
     "unavailable": "N/A",
@@ -1942,7 +1942,7 @@
                 {
                   "type": 3,
                   "customId": "SETUP_BOAR_CHANNEL_SELECT_1",
-                  "placeholder": "UNSELECTED"
+                  "placeholder": "emty"
                 }
               ]
             },
@@ -1952,7 +1952,7 @@
                 {
                   "type": 3,
                   "customId": "SETUP_BOAR_CHANNEL_SELECT_2",
-                  "placeholder": "UNSELECTED"
+                  "placeholder": "woah its emty too"
                 }
               ]
             },
@@ -1962,7 +1962,7 @@
                 {
                   "type": 3,
                   "customId": "SETUP_BOAR_CHANNEL_SELECT_3",
-                  "placeholder": "UNSELECTED"
+                  "placeholder": "wtf its also empty..."
                 }
               ]
             },
