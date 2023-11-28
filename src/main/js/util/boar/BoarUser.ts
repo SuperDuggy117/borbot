@@ -661,7 +661,7 @@ export class BoarUser {
         const isSBServer = guildData?.isSBServer;
 
         for (const rarity of orderedRarities) {
-            if (!rarity.hunterNeed) {
+            if (rarity.hunterNeed) {
                 maxUniques += rarity.boars.length;
             }
         }
