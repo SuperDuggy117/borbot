@@ -2663,12 +2663,11 @@
         "description": "This boar has unparalleled skill when it comes to lassoing and piloting horses. It also refuses to touch any modern technology.",
         "isSB": false
       },
-      "rickroll": {
-        "name": "rickroll bor",
-        "pluralName": "rickroll bors",
-        "file": "RickrollBoar.gif",
-        "staticFile": "RickrollBoarSTATIC.png",
-        "description": "Spreads the word of Creator Boar. He'll never give you up, nor will he let you down. He certainly won't run around and... desert you.",
+      "curious": {
+        "name": "curious borge",
+        "pluralName": "curious borges",
+        "file": "curiousborge.png",
+        "description": "wit the exctinction of all apes a new macsot for the clssic childrens book was needed to apeal to modern society or smth",
         "isSB": false
       },
       "supernova": {
